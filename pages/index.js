@@ -36,7 +36,7 @@ export default function Home({allPostsData}) {
       </Head>
       {/* childrenの部分を書く */}
       <section className={UtilStyles.headingMd}>
-        <p>たぬきねこです。にゃにゃにゃ</p>
+        <p>たぬきねこです。</p>
       </section>
 
       <section className={UtilStyles.headingMd}>
